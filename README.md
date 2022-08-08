@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [UI/UX of PI-Novas-Vagas-Frontend](https://github.com/thiagorf/PI-Novas-Vagas-Frontend)
+- 🔭 I’m currently working on [Next-Notes](https://github.com/thiagorf/next-notes)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **javascript projects**
 
-- 🤝 I’m looking for help with **CI/CD**
+- 🤝 I’m looking for help with **authentication/authorization security**
 
 - 💬 Ask me about **typescript, node and react**
 
-- 📫 How to reach me **trfarciroli@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/thiago-rf/)
 
 <p align="left">
 </p>
