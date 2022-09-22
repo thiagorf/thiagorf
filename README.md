@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Next-Notes](https://github.com/thiagorf/next-notes)
+- 🔭 I’m currently working on [spring-crud-api](https://github.com/thiagorf/spring-crud-test)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **spring ecosystem**
 
-- 👯 I’m looking to collaborate on **javascript projects**
+- 👯 I’m looking to collaborate on **javascript/java projects**
 
 - 🤝 I’m looking for help with **authentication/authorization security**
 
