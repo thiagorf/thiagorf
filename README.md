@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [spring-crud-api](https://github.com/thiagorf/spring-crud-test)
+- 🔭 I’m currently working on [Oauth2-OpenID-BFF-proxy-example](https://github.com/thiagorf/Oauth2-OpenID-BFF-proxy-example)
 
-- 🌱 I’m currently learning **spring ecosystem**
+- 🌱 I’m currently learning **AuthZ/AuthN specifications**
 
 - 👯 I’m looking to collaborate on **javascript/java projects**
 
