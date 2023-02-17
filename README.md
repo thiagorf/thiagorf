@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Oauth2-OpenID-BFF-proxy-example](https://github.com/thiagorf/Oauth2-OpenID-BFF-proxy-example)
+- 🔭 I’m currently working on [Nest-micro](https://github.com/thiagorf/Nest-micro)
 
 - 🌱 I’m currently learning **AuthZ/AuthN specifications**
 
