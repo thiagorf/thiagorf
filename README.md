@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Nest-micro](https://github.com/thiagorf/Nest-micro)
 
-- 🌱 I’m currently learning **AuthZ/AuthN specifications**
+- 🌱 I’m currently learning **Neovim**
 
-- 👯 I’m looking to collaborate on **javascript/java projects**
+- 👯 I’m looking to collaborate on **javascript/typescript projects**
 
 - 🤝 I’m looking for help with **authentication/authorization security**
 
